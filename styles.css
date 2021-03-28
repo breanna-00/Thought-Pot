@@ -41,3 +41,7 @@ body.resources {
     width: 18rem;
     text-align: center;
 }
+
+.container.mx-auto .title{
+    text-align: center;
+}
